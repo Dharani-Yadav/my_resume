@@ -1,0 +1,7 @@
+.row{
+    flex-direction: row;
+    justify-content: space-around;
+    display: flex;
+}
+h3{text-align: center;
+    background-color: burlywood;}
